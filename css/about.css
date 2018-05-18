@@ -1,0 +1,28 @@
+.nav-text {
+    color: rgb(201, 76, 76);
+}
+.about {
+    margin: 50px 0;
+}
+.about section {
+    width: 50%;
+    height: 100%;
+}
+.about img {
+    width: 80%;
+    display: block;
+}
+
+.about h1, .about p {
+    margin-top: 75px;
+    text-align: center;
+}
+section .tiger-video  {
+    width: 100%;
+}
+
+.tiger-container {
+    position: relative;
+    right: 17px;
+    top: 30px;
+}

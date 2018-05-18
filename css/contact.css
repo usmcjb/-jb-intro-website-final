@@ -1,0 +1,29 @@
+.contact section {
+    width: 50%;
+    margin: 75px 0;
+}
+.contact section .form {
+    height: 521px;
+    width: 100%;
+    border: none;
+}
+.map {
+    width: 400px;
+    height: 300px;
+    border: none;
+    display: block;
+    margin-left: 175px;
+}
+.info div {
+    width: 47%;
+    padding: 10px;
+}
+.info div:first-child {
+    text-align: right;
+}
+.info ul {
+    list-style-type: none;
+}
+.info ul li {
+    margin-bottom: 5px;
+}
